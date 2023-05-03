@@ -1,0 +1,25 @@
+# Arquivos de compilação Java
+*.class
+
+# Arquivos de dependência do Maven
+target/
+
+# Arquivos de configuração do Eclipse
+.settings/
+
+# Logs
+logs/
+
+# Arquivos de cache do IntelliJ IDEA
+.idea/
+
+# Arquivos de cache do NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Arquivos de configuração do Gradle
+.gradle/
+build/
